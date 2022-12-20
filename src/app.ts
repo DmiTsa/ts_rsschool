@@ -1,5 +1,5 @@
 import { createServer, IncomingMessage, ServerResponse } from 'http';
-import getController from './src/controllers/getController.js';
+import getController from './controllers/getController.js';
 
 const port = 4000;
 
